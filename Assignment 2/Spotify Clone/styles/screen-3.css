@@ -1,0 +1,131 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39rem;
+}.screen-3-mZy {
+  box-sizing: border-box;
+  padding-top: 2.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f4ebeb;
+  border-radius: 4rem;
+}
+.screen-3-mZy .auto-group-ke9t-uRH {
+  margin: 0rem 31.8rem 7.9rem 0rem;
+  box-sizing: border-box;
+  padding: 0.6rem 0rem 0.7rem 0rem;
+  width: 4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-4-v23.png');
+  flex-shrink: 0;
+}
+.screen-3-mZy .auto-group-ke9t-uRH .back-Dgs {
+  width: 3.7rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.screen-3-mZy .spotifylogowithtext-kgo {
+  margin: 0rem 0.1rem 4.4rem 0rem;
+  width: 21.1rem;
+  height: 6.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.screen-3-mZy .enjoy-listening-to-music-smR {
+  margin: 0rem 0.7rem 1.6rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.screen-3-mZy .auto-group-aycq-zLF {
+  margin-right: 5.3169rem;
+  width: 60.169rem;
+  height: 65.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.screen-3-mZy .auto-group-aycq-zLF .rectangle-5-KNX {
+  width: 15.8rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 10.8rem;
+  background-color: #15b926;
+  border-radius: 3rem;
+}
+.screen-3-mZy .auto-group-aycq-zLF .register-FGB {
+  width: 10.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 5rem;
+  top: 13.2rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.screen-3-mZy .auto-group-aycq-zLF .sign-in-xRV {
+  width: 7.8rem;
+  height: 3rem;
+  position: absolute;
+  left: 24.6rem;
+  top: 13.2rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.screen-3-mZy .auto-group-aycq-zLF .mag-billie-03-master675-v3-TNF {
+  width: 60.169rem;
+  height: 60rem;
+  position: absolute;
+  left: 0;
+  top: 5.3rem;
+  background-color: rgba(255, 0, 0, 0.1000000015);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mag-billie-03-master675-v3-bg.png');
+  border-radius: 15.8rem 17.9005rem 17.9005rem 17.7rem;
+}
+.screen-3-mZy .auto-group-aycq-zLF .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-eu-feugiat-ut-eu-sagittis-sed-dui-lectus-sem-dignissim-Lgw {
+  width: 29.2rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.6200000048);
+  font-family: Inter, 'Source Sans Pro';
+}

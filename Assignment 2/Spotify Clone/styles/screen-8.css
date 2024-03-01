@@ -1,0 +1,242 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39rem;
+}.screen-8-NNj {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #f4ebeb;
+  border-radius: 4rem;
+}
+.screen-8-NNj .auto-group-vn7w-871 {
+  width: 41rem;
+  height: 58.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.screen-8-NNj .auto-group-vn7w-871 .main-jo-bhi-hoonjaisa-hoon-tujhme-rehta-khota-hoontu-mera-aaj-hai-merakal-haimeri-zindagi-ki-duaamain-jo-bhi-hoonjaisa-hoontujhme-rehta-khota-hoontu-mera-aaj-hai-merakal-haimeri-zindagi-ki-duaa-f6w {
+  width: 19.1rem;
+  height: 46.6rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 10.3rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #f8f8f8;
+  font-family: Inter, 'Source Sans Pro';
+}
+.screen-8-NNj .auto-group-vn7w-871 .main-jo-bhi-hoonjaisa-hoon-tujhme-rehta-khota-hoontu-mera-aaj-hai-merakal-haimeri-zindagi-ki-duaamain-jo-bhi-hoonjaisa-hoontujhme-rehta-khota-hoontu-mera-aaj-hai-merakal-haimeri-zindagi-ki-duaa-f6w .main-jo-bhi-hoonjaisa-hoon-tujhme-rehta-khota-hoontu-mera-aaj-hai-merakal-haimeri-zindagi-ki-duaamain-jo-bhi-hoonjaisa-hoontujhme-rehta-khota-hoontu-mera-aaj-hai-merakal-haimeri-zindagi-ki-duaa-f6w-sub-0 {
+}
+.screen-8-NNj .auto-group-vn7w-871 .main-jo-bhi-hoonjaisa-hoon-tujhme-rehta-khota-hoontu-mera-aaj-hai-merakal-haimeri-zindagi-ki-duaamain-jo-bhi-hoonjaisa-hoontujhme-rehta-khota-hoontu-mera-aaj-hai-merakal-haimeri-zindagi-ki-duaa-f6w .main-jo-bhi-hoonjaisa-hoon-tujhme-rehta-khota-hoontu-mera-aaj-hai-merakal-haimeri-zindagi-ki-duaamain-jo-bhi-hoonjaisa-hoontujhme-rehta-khota-hoontu-mera-aaj-hai-merakal-haimeri-zindagi-ki-duaa-f6w-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #f8f8f8;
+  font-family: Inter, 'Source Sans Pro';
+}
+.screen-8-NNj .auto-group-vn7w-871 .main-jo-bhi-hoonjaisa-hoon-tujhme-rehta-khota-hoontu-mera-aaj-hai-merakal-haimeri-zindagi-ki-duaamain-jo-bhi-hoonjaisa-hoontujhme-rehta-khota-hoontu-mera-aaj-hai-merakal-haimeri-zindagi-ki-duaa-f6w .main-jo-bhi-hoonjaisa-hoon-tujhme-rehta-khota-hoontu-mera-aaj-hai-merakal-haimeri-zindagi-ki-duaamain-jo-bhi-hoonjaisa-hoontujhme-rehta-khota-hoontu-mera-aaj-hai-merakal-haimeri-zindagi-ki-duaa-f6w-sub-2 {
+}
+.screen-8-NNj .auto-group-vn7w-871 .rectangle-18-FMy {
+  width: 39rem;
+  height: 58.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem 4rem 0 0;
+}
+.screen-8-NNj .auto-group-vn7w-871 .ellipse-4-BFd {
+  width: 4rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 3.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.screen-8-NNj .auto-group-vn7w-871 .back-KMq {
+  width: 3.7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 4.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.screen-8-NNj .auto-group-vn7w-871 .menu-vertical-euu {
+  width: 10rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 31rem;
+  top: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.screen-8-NNj .auto-group-vn7w-871 .tu-dua-hai-mjd {
+  width: 11.5rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 14.7rem;
+  top: 3.7rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #f4ebeb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.screen-8-NNj .auto-group-vn7w-871 .mdi-play-snf {
+  width: 1.375rem;
+  height: 1.75rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 33.2425rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.screen-8-NNj .auto-group-vzpq-Pm1 {
+  box-sizing: border-box;
+  padding: 2.7rem 0rem 3rem 0rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.screen-8-NNj .auto-group-vzpq-Pm1 .auto-group-e3jm-Wqd {
+  margin: 0rem 3rem 2.9rem 0rem;
+  width: calc(100% - 3rem);
+  height: 5.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.screen-8-NNj .auto-group-vzpq-Pm1 .auto-group-e3jm-Wqd .ellipse-9-qd1 {
+  width: 6.6rem;
+  height: 5.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.screen-8-NNj .auto-group-vzpq-Pm1 .auto-group-e3jm-Wqd .auto-group-ahiu-Nsq {
+  box-sizing: border-box;
+  padding-left: 1.3rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.screen-8-NNj .auto-group-vzpq-Pm1 .auto-group-e3jm-Wqd .auto-group-ahiu-Nsq .auto-group-umqf-7aX {
+  margin-right: 13.3rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.screen-8-NNj .auto-group-vzpq-Pm1 .auto-group-e3jm-Wqd .auto-group-ahiu-Nsq .auto-group-umqf-7aX .tu-dua-hai-GTR {
+  margin-bottom: 0.3rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.screen-8-NNj .auto-group-vzpq-Pm1 .auto-group-e3jm-Wqd .auto-group-ahiu-Nsq .auto-group-umqf-7aX .darshan-raval-iij {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.6200000048);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.screen-8-NNj .auto-group-vzpq-Pm1 .auto-group-e3jm-Wqd .auto-group-ahiu-Nsq .vector-4Go {
+  margin-top: 1rem;
+  width: 2.5rem;
+  height: 2.1454rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.screen-8-NNj .auto-group-vzpq-Pm1 .auto-group-tnvt-bGj {
+  margin: 0rem 3.199rem 1.547rem 0rem;
+  width: 32.8007rem;
+  height: 0.2528rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.screen-8-NNj .auto-group-vzpq-Pm1 .auto-group-ewrz-81m {
+  margin: 0rem 3.299rem 1.1rem 1.801rem;
+  width: calc(100% - 5.1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.screen-8-NNj .auto-group-vzpq-Pm1 .auto-group-ewrz-81m .item-1-09-f1h {
+  margin: 0.1rem 26.3rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.screen-8-NNj .auto-group-vzpq-Pm1 .auto-group-ewrz-81m .item-2-59-BEw {
+  margin-bottom: 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.screen-8-NNj .auto-group-vzpq-Pm1 .auto-group-ktg1-7eP {
+  margin: 0rem 12rem 0rem 10.4rem;
+  width: calc(100% - 22.4rem);
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.screen-8-NNj .auto-group-vzpq-Pm1 .auto-group-ktg1-7eP .vector-SRm {
+  width: 3rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.screen-8-NNj .auto-group-vzpq-Pm1 .auto-group-ktg1-7eP .vector-Pbu {
+  width: 5.8rem;
+  height: 5.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.screen-8-NNj .auto-group-vzpq-Pm1 .auto-group-ktg1-7eP .vector-9b5 {
+  width: 3rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

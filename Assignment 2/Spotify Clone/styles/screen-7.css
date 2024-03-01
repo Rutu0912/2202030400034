@@ -1,0 +1,217 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39rem;
+}.screen-7-Gf1 {
+  width: 100%;
+  height: 84.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #f4ebeb;
+  border-radius: 4rem;
+}
+.screen-7-Gf1 .auto-group-c9py-1Mh {
+  width: 37.5rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 2.6rem;
+  display: flex;
+  align-items: flex-end;
+}
+.screen-7-Gf1 .auto-group-c9py-1Mh .auto-group-j5id-Y6j {
+  margin: 0.4rem 23.5rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 0.6rem 0rem 0.7rem 0rem;
+  width: 4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-4-yHy.png');
+  flex-shrink: 0;
+}
+.screen-7-Gf1 .auto-group-c9py-1Mh .auto-group-j5id-Y6j .back-TDh {
+  width: 3.7rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.screen-7-Gf1 .auto-group-c9py-1Mh .menu-vertical-BQb {
+  width: 10rem;
+  height: 4.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.screen-7-Gf1 .rectangle-17-XDZ {
+  width: 31.9rem;
+  height: 30.2rem;
+  position: absolute;
+  left: 3.5007rem;
+  top: 15.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 3rem;
+}
+.screen-7-Gf1 .auto-group-fdvf-qEF {
+  width: 29.5rem;
+  height: 3.1454rem;
+  position: absolute;
+  left: 4.9007rem;
+  top: 48.7rem;
+  display: flex;
+  align-items: flex-end;
+}
+.screen-7-Gf1 .auto-group-fdvf-qEF .tu-dua-hai-mNo {
+  margin: 0rem 15.6rem 0.445rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.screen-7-Gf1 .auto-group-fdvf-qEF .vector-UY7 {
+  width: 2.5rem;
+  height: 2.1454rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.screen-7-Gf1 .darshan-raval-pby {
+  width: 12.3rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 4.9007rem;
+  top: 52.8rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.6200000048);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.screen-7-Gf1 .auto-group-uy3k-KYj {
+  width: 32.8007rem;
+  height: 0.2528rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 59.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.screen-7-Gf1 .auto-group-u79x-FBV {
+  width: 33.9rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 3.2007rem;
+  top: 61.1rem;
+  display: flex;
+  align-items: center;
+}
+.screen-7-Gf1 .auto-group-u79x-FBV .item-1-09-ytB {
+  margin: 0.1rem 26.3rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.screen-7-Gf1 .auto-group-u79x-FBV .item-2-59-tVM {
+  margin-bottom: 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.screen-7-Gf1 .auto-group-hqlr-RkB {
+  width: 16.6rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 11.2007rem;
+  top: 67.5rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+}
+.screen-7-Gf1 .auto-group-hqlr-RkB .vector-wyR {
+  width: 3rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.screen-7-Gf1 .auto-group-hqlr-RkB .vector-hhh {
+  width: 5.8rem;
+  height: 5.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.screen-7-Gf1 .auto-group-hqlr-RkB .vector-rab {
+  width: 3rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.screen-7-Gf1 .auto-group-dmpz-CeT {
+  width: 5.9rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 17.2rem;
+  top: 76.4rem;
+}
+.screen-7-Gf1 .auto-group-dmpz-CeT .lyrics-93u {
+  width: 5.9rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0;
+  top: 2.8rem;
+  font-size: 2.1rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.screen-7-Gf1 .auto-group-dmpz-CeT .back-G8X {
+  width: 2.4729rem;
+  height: 3.7469rem;
+  position: absolute;
+  left: 1.2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.screen-7-Gf1 .now-playing-QVd {
+  width: 14.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 12.1rem;
+  top: 8.6rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
